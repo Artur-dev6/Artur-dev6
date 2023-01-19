@@ -1,4 +1,4 @@
-## Faaaala dev, Luigi Aqui!
+## Faaaala dev, Artur Aqui!
 
 <div>
   <a href="https://github.com/Artur-dev6">
